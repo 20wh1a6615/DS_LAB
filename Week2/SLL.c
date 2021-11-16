@@ -98,6 +98,7 @@ struct node{
           }
    }
  } 
+//ouput
 1-create
 2-insertion at begin
 3-insertion at end
